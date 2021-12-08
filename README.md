@@ -9,3 +9,4 @@ Advent of Code 2021 solutions in as many different languages as I can. The goal 
 - [Day 5: R](05-r/solution.R) ✅
 - [Day 6: Common Lisp](06-lisp/solution.lisp) ✅
 - [Day 7: Python](07-python/solution.py) ✅
+- [Day 8: Go](08-go/solution.go) ✅
