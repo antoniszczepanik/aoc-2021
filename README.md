@@ -12,3 +12,4 @@ Advent of Code 2021 solutions in as many different languages as I can. The goal 
 - [Day 8: Go](08-go/solution.go) ✅
 - [Day 9: Julia](09-julia/solution.jl) ✅
 - [Day 10: Ocaml](10-ocaml/solution.ml) ✅
+- [Day 11: C++](11-cpp/solution.cpp) ✅
