@@ -14,3 +14,4 @@ Advent of Code 2021 solutions in as many different languages as I can. The goal 
 - [Day 10: Ocaml](10-ocaml/solution.ml) ✅
 - [Day 11: C++](11-cpp/solution.cpp) ✅
 - [Day 12: Nim](12-nim/solution.nim) ✅
+- [Day 13: Java](13-java/solution.java) ✅
